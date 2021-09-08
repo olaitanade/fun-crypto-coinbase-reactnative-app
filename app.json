@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "easycrypto",
+    "slug": "easycrypto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "easycrypto"
+}
